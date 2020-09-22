@@ -7,7 +7,7 @@
 
 
     git init
-    git add README.md => 전체 파일 git add .
+    git add README.md
     git commit -m "first commit"
     git branch -M master
     git remote add origin https://github.com/badongsch/html_book_travel.git
@@ -23,3 +23,11 @@
     git push -u origin master
 	
 ---	
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/badongsch/html_book_travel.git
+git push -u origin master
